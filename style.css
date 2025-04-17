@@ -1,0 +1,6 @@
+body { background: #fef6f0; font-family: sans-serif; margin: 0; padding: 0; }
+header { background: #ffd1dc; padding: 20px; text-align: center; }
+.logo { height: 60px; }
+.poem { margin: 20px; font-size: 1.2em; }
+.interactions { margin: 20px; }
+textarea { width: 100%; height: 80px; margin-top: 10px; }
